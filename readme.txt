@@ -6,7 +6,7 @@ Requires at least: 2.0.2
 Tested up to: 2.1
 Stable tag: 1.0
 
-Upload MP3's to a folder on your server. Tell the plugin where the folder is. Add the widget to your sidebar. Voila, you have a playable list of MP3's in your sidebar.
+Upload MP3's to a folder on your server. Configure the plugin. Add a widget to the sidebar. Voila, you have a playable list of MP3's in your sidebar.
 
 == Description ==
 
